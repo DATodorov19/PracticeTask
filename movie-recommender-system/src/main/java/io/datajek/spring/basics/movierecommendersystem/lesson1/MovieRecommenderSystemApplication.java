@@ -1,6 +1,5 @@
-package lesson1;
+package io.datajek.spring.basics.movierecommendersystem.lesson1;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Arrays;
